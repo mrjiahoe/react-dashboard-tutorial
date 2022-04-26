@@ -1,11 +1,11 @@
-import './App.css'
+import "./App.css";
 
 function App() {
-  return (
-    <div className="App">
-        Subscribe Zainkeepscode
-    </div>
-  );
+	return (
+		<div className="App">
+			<div className="AppGlass"></div>
+		</div>
+	);
 }
 
 export default App;
